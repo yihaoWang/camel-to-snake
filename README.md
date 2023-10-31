@@ -33,7 +33,7 @@ tsc
 1. Ensure you have compiled the TypeScript files to JavaScript.
 2. Run the tool using the following command:
 ```sh
-node dist/convert.js /path/to/your/php/file.php
+node convert.js /path/to/your/php/file.php
 ```
 Replace /path/to/your/php/file.php with the path to the PHP file you want to convert.
 3. Follow the interactive prompts to review and apply the suggested variable name changes.
